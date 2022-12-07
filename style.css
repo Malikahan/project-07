@@ -8,3 +8,7 @@
 .title {
   color: rgb(255, 221, 136);
 }
+.section {
+  padding: 50px;
+  background-color: aqua;
+}
