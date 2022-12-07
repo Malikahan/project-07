@@ -1,0 +1,10 @@
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+.header {
+  background-color: cornflowerblue;
+}
+.title {
+  color: rgb(255, 221, 136);
+}
